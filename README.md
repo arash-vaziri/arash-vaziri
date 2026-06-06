@@ -1,4 +1,4 @@
-# Hi, I'm Arash Haji Vaziri 👋
+# Hi, I'm Arash Hajivaziri 👋
 
 Senior Full-Stack Developer based in Toronto, focused on building durable backend systems, SaaS platforms, and cloud-ready APIs.
 
@@ -6,7 +6,7 @@ I work mainly with **Node.js**, **TypeScript**, **NestJS**, **Express**, **Larav
 
 ---
 
-## 🧭 Focus Areas
+## Focus Areas
 
 - 🏗️ SaaS backend architecture
 - 🔌 REST API design and validation
@@ -14,7 +14,7 @@ I work mainly with **Node.js**, **TypeScript**, **NestJS**, **Express**, **Larav
 - 🗄️ MySQL / MongoDB data modeling and optimization
 - 🚢 CI/CD and AWS deployment
 - 🧱 Clean Architecture, DDD, and Ports & Adapters
-
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -51,24 +51,11 @@ I work mainly with **Node.js**, **TypeScript**, **NestJS**, **Express**, **Larav
 
 ---
 
-## ☁️ Cloud/Backend Developer
+## ☁️ Cloud & Backend Developer
 
-- Full-stack development experience with a stronger focus on backend architecture, APIs, databases, and production deployment.
-- Expanding toward Cloud/Backend Developer roles through AWS, serverless development, CI/CD, and Infrastructure as Code.
-
----
-
-## 💼 Professional Background
-
-I have worked across SaaS platforms, healthcare/physiotherapy systems, admin dashboards, legacy modernization projects, data migration workflows, and cloud deployment pipelines.
-
-My recent work includes:
-
-- Building backend APIs with Node.js, Express, Sequelize, Laravel, and Django / DRF
-- Refactoring legacy systems into modular, maintainable structures
-- Improving database schemas, queries, and migration workflows
-- Building CI/CD workflows and deployment pipelines
-- Working closely with product, QA, frontend, and business teams
+- Full-stack developer with a stronger focus on backend architecture, API development, database-driven systems, and production deployment.
+- Experience across SaaS platforms, admin dashboards, healthcare/physiotherapy systems, legacy modernization, and deployment workflows.
+- Currently expanding deeper into AWS, serverless development, CI/CD, and Infrastructure as Code.
 
 ---
 
