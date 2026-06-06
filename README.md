@@ -41,48 +41,13 @@ I work mainly with **Node.js**, **TypeScript**, **NestJS**, **Express**, **Larav
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛰️ Mars Rover CLI Simulator
-
-A JavaScript CLI project demonstrating command parsing, input validation, grid-based movement, boundary handling, and Jest testing.
-
-**Highlights**
-
-- CLI-based rover movement simulation
-- Plateau and landing validation
-- Multiple rover support
-- Boundary-safe movement
-- Unit testing with Jest
-
----
-
-### ☁️ AWS Serverless Node.js API
-
-A serverless REST API project using AWS Lambda, API Gateway, DynamoDB, AWS CLI, IAM, and CloudWatch.
-
-**Highlights**
-
-- REST API with Lambda handlers
-- API Gateway integration
-- Environment-based configuration
-- Structured error handling
-- CloudWatch logging
-- AWS SAM deployment workflow
-
----
-
-### 📊 Admin Panel Dashboard
-
-A dashboard-style frontend project focused on reusable UI structure, forms, routing, and business entity management.
-
-**Highlights**
-
-- Component-based UI
-- Dashboard layout
-- Form handling
-- Routing structure
-- Business/admin workflow patterns
+| Project | Stack | Summary |
+|---|---|---|
+| 🎨 [Sakhtmaan Frontend](https://github.com/arash-vaziri/sakhtmaan-frontend) | Angular 14, TypeScript, SCSS | Frontend for a voting/evaluation platform with reusable components, structured SCSS, and centralized API endpoint management. |
+| 🚀 [Sakhtmaan Backend](https://github.com/arash-vaziri/sakhtmaan-backend) | Laravel 9, PHP 8, MongoDB, Passport | Backend API with modular routing, validation-layer separation, reusable traits, and MongoDB-based authentication setup. |
+| 🛰️ [Mars Rover](https://github.com/arash-vaziri/mars-rover) | JavaScript, CLI | Small interview-style CLI project kept as an additional code sample. |
 
 ---
 
