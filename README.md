@@ -51,15 +51,10 @@ I work mainly with **Node.js**, **TypeScript**, **NestJS**, **Express**, **Larav
 
 ---
 
-## 📌 Current Direction
+## ☁️ Cloud/Backend Developer
 
-I am currently strengthening my public portfolio around:
-
-- Production-style Node.js APIs
-- AWS serverless development
-- Clean backend architecture
-- Testing and CI/CD
-- Legacy code modernization examples
+- Full-stack development experience with a stronger focus on backend architecture, APIs, databases, and production deployment.
+- Expanding toward Cloud/Backend Developer roles through AWS, serverless development, CI/CD, and Infrastructure as Code.
 
 ---
 
